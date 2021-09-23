@@ -1,2 +1,2 @@
 # AnalyseManage
-发布分分析评论
+发布分析评论
